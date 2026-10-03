@@ -1,5 +1,5 @@
 ### 1.buatlah laporan proses intallasi dikomputer mahasiswa dan tampilkan screanshot-nya
-
+![Teks Alternatif](pwd.png)
 ### 2.analisilah pada gambar kenpa pada saat instalasi perlu dipilih "/" pada opsi Mount Point?
 Pemilihan simbol "/" pada opsi Mount Point ditujukan untuk direktori (root). Dalam arsitektur sistem operasi Linux, direktori root (/) adalah hierarki puncak atau akar dari seluruh sistem file.Wajib memilih Mount Point / karena di partisi inilah seluruh pondasi sistem operasi (seperti kernel Linux, program bawaan, dan file konfigurasi) akan diinstal. Jika partisi root / ini tidak ditentukan, instalasi tidak bisa dilanjutkan karena Ubuntu tidak memiliki tempat untuk menyimpan file sistem intinya.  
 
