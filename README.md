@@ -5,11 +5,15 @@
 ![Teks Alternatif](vm3.png)
 ![Teks Alternatif](vm4.png)
 ![Teks Alternatif](vm5.png)
-![Teks Alternatif]()
-![Teks Alternatif]()
-![Teks Alternatif]()
-![Teks Alternatif]()
-![Teks Alternatif]()
+![Teks Alternatif](v2.png)
+![Teks Alternatif](v3.png)
+![Teks Alternatif](v4.png)
+![Teks Alternatif](v5.png)
+![Teks Alternatif](v6.png)
+![Teks Alternatif](v7.png)
+![Teks Alternatif](v8.png)
+![Teks Alternatif](v9.png)
+![Teks Alternatif](v10.png)
 ### 2.analisilah pada gambar kenpa pada saat instalasi perlu dipilih "/" pada opsi Mount Point?
 Pemilihan simbol "/" pada opsi Mount Point ditujukan untuk direktori (root). Dalam arsitektur sistem operasi Linux, direktori root (/) adalah hierarki puncak atau akar dari seluruh sistem file.Wajib memilih Mount Point / karena di partisi inilah seluruh pondasi sistem operasi (seperti kernel Linux, program bawaan, dan file konfigurasi) akan diinstal. Jika partisi root / ini tidak ditentukan, instalasi tidak bisa dilanjutkan karena Ubuntu tidak memiliki tempat untuk menyimpan file sistem intinya.  
 
