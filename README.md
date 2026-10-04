@@ -1,9 +1,9 @@
 ### 1.buatlah laporan proses intallasi dikomputer mahasiswa dan tampilkan screanshot-nya
 ![Teks Alternatif]()
 ![Teks Alternatif](vm1.png)
-![Teks Alternatif]()
-![Teks Alternatif]()
-![Teks Alternatif]()
+![Teks Alternatif](vm2.png)
+![Teks Alternatif](vm3.png)
+![Teks Alternatif](vm4.png)
 ![Teks Alternatif]()
 ![Teks Alternatif]()
 ![Teks Alternatif]()
