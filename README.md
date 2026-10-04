@@ -4,7 +4,7 @@
 ![Teks Alternatif](vm2.png)
 ![Teks Alternatif](vm3.png)
 ![Teks Alternatif](vm4.png)
-![Teks Alternatif]()
+![Teks Alternatif](vm5.png)
 ![Teks Alternatif]()
 ![Teks Alternatif]()
 ### 2.analisilah pada gambar kenpa pada saat instalasi perlu dipilih "/" pada opsi Mount Point?
